@@ -92,5 +92,5 @@ def rotation(image, rotation_angle):
         rotated_image = image
     return image
 
-rotated_image = rotation(img, 90)
+rotated_image = rotation(img, 180)
 cv2.imwrite('solutions/9. Rotated.png', rotated_image)
