@@ -1,0 +1,5 @@
+.idea
+.idea/
+.idea/*
+pyproject.toml
+uv.lock
